@@ -1,0 +1,118 @@
+.Logo{
+width: 2200px;
+height: 500px;
+}
+.Logo_2{
+width: 1000px;
+height: 500px;
+}
+main{
+border: 1px solid white
+}
+.Personagi{
+border:2px solid silver; 
+border-radius:5px;
+padding: 5px 15px 5px 15px;
+margin:50px 20px 50px 20px;
+text-decoration:none;
+background-color: silver;
+color: black;
+float: left;
+font-size: 30px;
+margin: 100px;
+}
+body{
+background-color: black;
+font-family: Bradley Hand, cursive;
+color: silver;
+}
+.Zbroia{
+border:2px solid silver; 
+border-radius:5px;
+padding: 5px 35px 5px 35px;
+margin:50px 20px 50px 20px;
+text-decoration:none;
+background-color: silver;
+color: black;
+float: right;
+font-size: 30px;
+margin: 100px;
+
+}
+.raimbol-bober{
+color: silver;
+text-align: center;
+margin: 100px;
+font-size: 60px;
+  font-weight: bold;
+  background: linear-gradient(
+    90deg,
+    rgb(0, 43, 50),
+    rgb(0, 116, 116),
+    rgb(1, 147, 184),
+    rgb(0, 217, 255)
+  );
+  background-size: 400%;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  animation: rainbow 5s linear infinite;
+}
+
+@keyframes rainbow {
+  0% {
+    background-position: 0%;
+  }
+  100% {
+    background-position: 100%;
+  }
+}
+.Zagolovok{
+margin-left: 200px;
+margin-right: 200px;
+text-align: center;
+font-size: 40px;
+  font-weight: bold;
+  background: linear-gradient(
+    90deg,
+    rgb(0, 136, 255),
+    rgb(0, 65, 243),
+    rgb(0, 0, 74)
+  );
+  background-size: 400%;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  animation: rainbow 5s linear infinite;
+}
+
+@keyframes rainbow {
+  0% {
+    background-position: 0%;
+  }
+  100% {
+    background-position: 100%;
+  }
+}
+.blue_and_red{
+width: 2200px;
+height: 100px
+}
+.Pro_Metal{
+width: 500px;
+height: 650px;
+margin-left: 300px
+}
+.Pro_Metal_2{
+text-align: center;
+background-color: rgb(51, 51, 51);
+}
+.vibor{
+font-size: 70px;
+}
+.catalog {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+width: 2200px;
+height: 650px; 
+background-color: rgb(53, 53, 53);
+}
